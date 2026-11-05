@@ -13,3 +13,18 @@ Se puede comprobar con el siguiente comando en terminal tanto para Windows como 
 
 Se puede instalar con el siguiente comando en terminal tanto para Windows como para Linux `pip install flet`
 (Se recomienda hacer dentro de la carpeta del proyecto)
+
+### Principales Componentes Gráficos
+
+| Componente |	Función |
+| :--- | ---: |
+| Text | Mostrar textos en pantalla |
+| Button | Crear botones interactivos |
+| TextField |	Permitir introducir información |
+| Image |	Mostrar imágenes |
+| Container |	Agrupar y organizar elementos |
+| Row |	Organizar elementos horizontalmente |
+| Column | Organizar elementos verticalmente |
+| Icon | Mostrar iconos | 
+| AlertDialog |	Mostrar ventanas de diálogo |
+| SnackBar | Mostrar mensajes temporales |
