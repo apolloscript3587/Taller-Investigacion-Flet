@@ -33,3 +33,25 @@ Se puede instalar con el siguiente comando en terminal tanto para Windows como p
 
 Flet utiliza funciones y métodos que se ejecutan cuando el usuario realiza una acción.
 Por ejemplo, un botón puede utilizar la propiedad `on_click` para detectar un clic del mouse.
+
+### Ventajas y Limitaciones Frente a Tkinter
+
+Ventajas de Flet:
+- Permite desarrollar aplicaciones multiplataforma.
+- Tiene componentes gráficos modernos.
+- Facilita la programación orientada a eventos.
+- Permite organizar el código utilizando clases y objetos.
+- No exige conocimientos de desarrollo frontend.
+
+Limitaciones de Flet:
+- Necesita instalar dependencias adicionales.
+- Puede consumir más recursos que una interfaz sencilla desarrollada con Tkinter.
+- Algunas características dependen de la plataforma donde se ejecute.
+- El empaquetado para dispositivos móviles requiere configuraciones adicionales.
+
+
+
+
+
+
+
