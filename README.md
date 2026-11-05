@@ -36,7 +36,6 @@ Por ejemplo, un botón puede utilizar la propiedad `on_click` para detectar un c
 
 ### Ventajas y Limitaciones Frente a Tkinter
 
-
 Ventajas de Flet:
 - Permite desarrollar aplicaciones multiplataforma.
 - Tiene componentes gráficos modernos.
