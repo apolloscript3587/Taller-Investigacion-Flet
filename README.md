@@ -111,13 +111,6 @@ Taller-Investigacion-Flet/
     └── (captura de la aplicación en ejecución)
 ```
 
-## Publicación en GitHub
-
-1. Crea un repositorio en GitHub.
-2. Sube los archivos del proyecto, incluyendo `main.py`, `README.md` y `requirements.txt`.
-3. No subas la carpeta `.venv`; contiene dependencias locales y no es necesaria para ejecutar el proyecto.
-4. Agrega una captura real de la aplicación funcionando en la carpeta `evidencia/`.
-
 ## Fuentes consultadas
 
 - [Documentación oficial de Flet](https://flet.dev/docs/).
