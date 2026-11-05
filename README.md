@@ -1,6 +1,6 @@
 # Flet
 
-Es un framework de código abierto para Python que te permite crear interfaces gráficas de usuario (GUI) y aplicaciones interactivas para web, escritorio (Windows, macOS, Linux) y móviles usando únicamente Python, sin necesidad de escribir código en HTML, CSS o JavaScript
+Es un framework de código abierto para Python que te permite crear interfaces gráficas de usuario (GUI) y aplicaciones interactivas para web, escritorio (Windows, macOS, Linux) y móviles usando únicamente Python, sin necesidad de escribir código en HTML, CSS o JavaScript.
 
 ## Instrucciones de Instalación y Ejecución
 
@@ -28,3 +28,8 @@ Se puede instalar con el siguiente comando en terminal tanto para Windows como p
 | Icon | Mostrar iconos | 
 | AlertDialog |	Mostrar ventanas de diálogo |
 | SnackBar | Mostrar mensajes temporales |
+
+### Eventos del Usuario
+
+Flet utiliza funciones y métodos que se ejecutan cuando el usuario realiza una acción.
+Por ejemplo, un botón puede utilizar la propiedad `on_click` para detectar un clic del mouse.
